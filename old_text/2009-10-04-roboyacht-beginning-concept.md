@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Робояхта начало. Концепция"
+date: 2009-10-04 13:48:00 -0700
+tags: ["авономный парусник", "роботояхта", "тримаран робот"]
+categories: ["roboyacht"]
+original_url: "https://robotics-ingvar-ua.blogspot.com/2009/10/blog-post_04.html"
+---
+
+Итак после разных и порой неудачных експериментов с ездящими роботами (хотя откровенно говоря до автономности им ох как было далеко) закортело создать по настоящему автономного робота.
+Автономность в данном случае должна быть максимально полной:
+1. автономность по движению
+2. автономность по питанию
+3. автономность по системам управления (проще говоря cpu on board)
+
+Ввиду отсутствия наличия достаточно емких акуммуляторов позволяющих обеспечить серьезную автономность , да и в угоду модной нынче тенденции на енергосберигающие технологии было решено применить их в робототехнике.
+А именно - движетелем робота будет ветер. Аккумулятор будет снабжать питанием лиш сервоприводы управления и бортовой компьютер. 
+В качестве прототипа робота был выбран тримаран с парусом-крылом.
+На первом этапе было решено не тратить время и нервы на обеспечение герметичности и выбрать в качестве первого приближения несколько другое устройство - буер.
+
+![pic01.jpg]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/pic01.jpg' | relative_url }})
+
+![windjet048.jpg]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/windjet048.jpg' | relative_url }})
+
+![windjet000.jpg]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/windjet000.jpg' | relative_url }})
+
+Итак первые наброски компоновки дали вот такого красавца:
+
+![model04.jpg]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/model04.jpg' | relative_url }})
+
+![model03.jpg]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/model03.jpg' | relative_url }})
+
+![model02.jpg]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/model02.jpg' | relative_url }})
+
+![model01.jpg]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/model01.jpg' | relative_url }})

@@ -1,0 +1,12 @@
+title: "Robotics Projects Archive"
+description: "Personal blog archive on early autonomous robotics, RC computer interfaces, and the unmanned wind-powered Roboyacht (RYacht-1) project (2004–2012)."
+url: ""
+baseurl: "/robotics"
+theme: minima
+
+markdown: kramdown
+permalink: /:year/:month/:title.html
+
+exclude:
+  - old_text/
+  - requirements.md
