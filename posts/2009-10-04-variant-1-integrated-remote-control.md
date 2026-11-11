@@ -7,6 +7,8 @@ categories: ["early-prototypes"]
 original_url: "https://robotics-ingvar-ua.blogspot.com/2009/10/2004-1-noname.html"
 ---
 
+[← Back to all posts](../index.md)
+
 *All the material below was originally written around 2004 and is posted here as backstory.*
 
 ##### Variant 1: Integrated Remote Control
@@ -54,3 +56,7 @@ The test runs were captured on video and are shown below:
 <video controls width="320" height="240">
   <source src="../assets/videos/2009-10-04-variant-1-integrated-remote-control/video-2.mp4" type="video/mp4">
 </video>
+
+---
+
+[← Back to all posts](../index.md)

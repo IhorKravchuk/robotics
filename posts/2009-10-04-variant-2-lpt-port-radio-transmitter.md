@@ -7,6 +7,8 @@ categories: ["early-prototypes"]
 original_url: "https://robotics-ingvar-ua.blogspot.com/2009/10/2-lpt.html"
 ---
 
+[← Back to all posts](../index.md)
+
 *All the material below was originally written around 2004 and is posted here as backstory.*
 
 In this version of the robot, I decided to integrate the radio control transmitter directly onto the LPT port connector itself, similar to a hardware HASP dongle. Once again, a classic Chinese no-name radio-controlled toy car was used as the base. Its remote control transmitter operated on the same frequency as the previous model and used compatible command signals, making it possible to control both cars with a single unit. The remote control was disassembled, and the transmitter board was carefully extracted.
@@ -43,3 +45,7 @@ Testing showed how easy it was to plug into any PC case, as well as its compactn
 
 No software changes were needed at this stage, as the existing control program was fully compatible with both transmitter variants.
 The next step in evolving this setup was mounting a video camera onto the vehicle.
+
+---
+
+[← Back to all posts](../index.md)

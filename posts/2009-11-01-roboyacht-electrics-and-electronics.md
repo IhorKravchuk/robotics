@@ -7,6 +7,8 @@ categories: ["roboyacht"]
 original_url: "https://robotics-ingvar-ua.blogspot.com/2009/11/2.html"
 ---
 
+[← Back to all posts](../index.md)
+
 A few words about the robot's electronic internals:
 
 The robot uses two compact electric drives: one to adjust the angle of attack of the wing sail, and another to steer the front ski.
@@ -34,3 +36,7 @@ A 6 GB IDE hard drive is mounted on the inner side of the computer compartment c
 ![IDE hard drive mounted on compartment cover](../assets/images/2009-11-01-roboyacht-electrics-and-electronics/PB300026.JPG)
 
 In the next post: the wing-sail construction.
+
+---
+
+[← Back to all posts](../index.md)

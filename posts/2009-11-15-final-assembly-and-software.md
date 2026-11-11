@@ -7,6 +7,8 @@ categories: ["roboyacht"]
 original_url: "https://robotics-ingvar-ua.blogspot.com/2009/11/blog-post_15.html"
 ---
 
+[← Back to all posts](../index.md)
+
 The time has come for final assembly.
 The hard drive was mounted on the inside of the instrument compartment cover.
 The servo controller board was mounted onto the motherboard over an insulating layer and connected to the internal LPT port header. Cables and boards were secured with hot glue. During assembly, I had to spend quite a bit of time with a heat gun removing that glue whenever wiring mistakes needed fixing.
@@ -38,3 +40,7 @@ And finally, the finished "Roboyacht" in all its glory:
 ![Assembled Roboyacht 2](../assets/images/2009-11-15-final-assembly-and-software/P8300008.JPG)
 
 The next posts will cover field trials, design modifications based on test results, and software optimization.
+
+---
+
+[← Back to all posts](../index.md)

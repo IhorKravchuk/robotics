@@ -7,6 +7,8 @@ categories: ["roboyacht"]
 original_url: "https://robotics-ingvar-ua.blogspot.com/2009/10/blog-post_04.html"
 ---
 
+[← Back to all posts](../index.md)
+
 After various (and sometimes unsuccessful) experiments with wheeled robots—which, frankly, were still a long way from true autonomy—I wanted to build a genuinely autonomous robot.
 Autonomy in this case had to be as complete as possible:
 1. **Motion autonomy**
@@ -33,3 +35,7 @@ The first layout sketches produced this beauty:
 ![3D CAD concept render 3](../assets/images/2009-10-04-roboyacht-beginning-concept/model02.jpg)
 
 ![3D CAD concept render 4](../assets/images/2009-10-04-roboyacht-beginning-concept/model01.jpg)
+
+---
+
+[← Back to all posts](../index.md)

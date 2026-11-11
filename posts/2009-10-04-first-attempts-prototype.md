@@ -7,6 +7,8 @@ categories: ["early-prototypes"]
 original_url: "https://robotics-ingvar-ua.blogspot.com/2009/10/blog-post.html"
 ---
 
+[← Back to all posts](../index.md)
+
 *All the material below was originally written around 2004 and is posted here as backstory.*
 
 **In the beginning, there was an idea…**
@@ -29,3 +31,7 @@ First, to verify the concept, a test circuit was assembled on a breadboard using
 This circuit lived up to every expectation.
 It reliably drove both electromagnetic relays and DC motor power circuits directly.
 In parallel, a Windows program was developed to control the LPT port. Working under Windows 2000 posed a particular challenge because the OS blocks user-space applications from accessing hardware I/O ports directly. After some searching online, I found the `IO.DLL` library, which enables direct hardware port access under Windows 2000/XP. This library formed the foundation of our control software.
+
+---
+
+[← Back to all posts](../index.md)

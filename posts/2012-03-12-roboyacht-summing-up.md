@@ -7,6 +7,8 @@ categories: ["roboyacht"]
 original_url: "https://robotics-ingvar-ua.blogspot.com/2012/03/roboyacht.html"
 ---
 
+[← Back to all posts](../index.md)
+
 Before starting the RYacht-2 project, I decided to sum up what had been accomplished during the RYacht-1 project.
 
 1. The project started with the idea of creating an unmanned, wind-driven trimaran for patrolling and exploration.
@@ -96,3 +98,7 @@ The hull housed two servos: a main one for wing-sail orientation and a smaller o
 Due to my relocation to Canada, the device was completely disassembled.
 
 Now I'm ready for the RYacht-2 project!
+
+---
+
+[← Back to all posts](../index.md)

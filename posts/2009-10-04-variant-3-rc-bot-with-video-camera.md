@@ -7,6 +7,8 @@ categories: ["early-prototypes"]
 original_url: "https://robotics-ingvar-ua.blogspot.com/2009/10/3.html"
 ---
 
+[← Back to all posts](../index.md)
+
 To achieve autonomy with these prototypes, I needed to write image-processing and self-navigation software.
 That required a test robot with a high degree of mobility and the ability to transmit video from an adjustable onboard camera. A standard USB webcam couldn't be used due to USB cable length limits.
 Accordingly, I decided to use an analog color PAL camera paired with a video capture card installed in the host PC. I selected a videoconferencing kit consisting of a PAL camera and a BT848-based PCI video capture card. To keep the architecture modular, the camera was modified by replacing its fixed cord with an RJ-45 jack integrated directly into the camera housing.
@@ -38,3 +40,7 @@ Development of an automatic orientation and fiducial object-recognition system w
 New control software supporting both joystick and keyboard input was also completed:
 
 ![Updated control software with joystick and keyboard support](../assets/images/2009-10-04-variant-3-rc-bot-with-video-camera/sm09.jpg)
+
+---
+
+[← Back to all posts](../index.md)

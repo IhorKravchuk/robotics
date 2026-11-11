@@ -7,6 +7,8 @@ categories: ["roboyacht"]
 original_url: "https://robotics-ingvar-ua.blogspot.com/2009/11/blog-post_2319.html"
 ---
 
+[← Back to all posts](../index.md)
+
 Theory is one thing, but there is no substitute for practical testing.
 On a nice, snowy day (long before final assembly), I decided to test how my magical contraption handles loose snow.
 
@@ -23,3 +25,7 @@ It was decided that future trials must be conducted either on ice or on hard-pac
 The designer and his creation—tested by reality:
 
 ![The designer and his creation in the snow](../assets/images/2009-11-15-first-trials/pic006.JPG)
+
+---
+
+[← Back to all posts](../index.md)

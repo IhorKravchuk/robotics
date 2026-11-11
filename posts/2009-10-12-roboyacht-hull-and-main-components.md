@@ -7,6 +7,8 @@ categories: ["roboyacht"]
 original_url: "https://robotics-ingvar-ua.blogspot.com/2009/10/blog-post_12.html"
 ---
 
+[← Back to all posts](../index.md)
+
 A plastic pipe with an internal diameter of 120 mm was used as the main body of the hull.
 
 ![Plastic hull tube with internal cooling fan](../assets/images/2009-10-12-roboyacht-hull-and-main-components/pic058.JPG)
@@ -25,3 +27,7 @@ In the middle section of the hull, the rotation drive for the wing mast (central
 A completely standard 600VA UPS was chosen as the power source; as subsequent tests showed, it provided enough energy for about an hour of autonomous operation for all onboard systems.
 
 ![600VA UPS battery and inverter assembly](../assets/images/2009-10-12-roboyacht-hull-and-main-components/pic060.JPG)
+
+---
+
+[← Back to all posts](../index.md)

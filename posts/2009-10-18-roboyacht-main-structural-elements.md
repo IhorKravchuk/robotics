@@ -7,6 +7,8 @@ categories: ["roboyacht"]
 original_url: "https://robotics-ingvar-ua.blogspot.com/2009/10/blog-post_18.html"
 ---
 
+[← Back to all posts](../index.md)
+
 To keep the land/ice yacht experiment simple, standard plastic skis were used, attached to a duralumin crossbeam through extruded polystyrene foam blocks.
 The foam block acts as a shock absorber to smooth out surface bumps and allows the ski to pivot slightly in the horizontal plane when hitting an obstacle.
 
@@ -29,3 +31,7 @@ Below is a view of the front section of the hull housing the onboard computer an
 ![Front hull section with onboard computer and power supply](../assets/images/2009-10-18-roboyacht-main-structural-elements/pic033.JPG)
 
 I will cover the electrical and electronic internals of the vehicle in upcoming posts.
+
+---
+
+[← Back to all posts](../index.md)

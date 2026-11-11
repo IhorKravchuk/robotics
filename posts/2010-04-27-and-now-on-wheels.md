@@ -7,6 +7,8 @@ categories: ["roboyacht"]
 original_url: "https://robotics-ingvar-ua.blogspot.com/2010/04/blog-post.html"
 ---
 
+[← Back to all posts](../index.md)
+
 The time has come to fulfill the promise I made to myself.
 The former trimaran now has wheels.
 
@@ -22,3 +24,7 @@ The only thing that worries me is the front wheel strut where it attaches to the
 And the battery hasn't even been installed yet! Redesigning this assembly from scratch would take at least a month (given my current workload), and before I know it, winter would be back again. So for now, I'm going all-in: testing it as-is with my fingers crossed. If the shaft snaps, I'll figure out how to deal with it then.
 
 ![Full view of wheeled Roboyacht](../assets/images/2010-04-27-and-now-on-wheels/P4270135.JPG)
+
+---
+
+[← Back to all posts](../index.md)

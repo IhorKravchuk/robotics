@@ -7,6 +7,8 @@ categories: ["roboyacht"]
 original_url: "https://robotics-ingvar-ua.blogspot.com/2010/11/final-test.html"
 ---
 
+[← Back to all posts](../index.md)
+
 After all these years (how strange that sounds now that everything is finished), the time finally came for field trials.
 Over time, the original idea—"let's build a robot yacht"—evolved as follows:
 
@@ -47,3 +49,7 @@ So, the test is complete, the first prototype has been disassembled, and work ha
 <video controls width="480" height="360">
   <source src="../assets/videos/2010-11-02-final-test-roboyacht/video-3.mp4" type="video/mp4">
 </video>
+
+---
+
+[← Back to all posts](../index.md)
