@@ -10,22 +10,22 @@ original_url: "https://robotics-ingvar-ua.blogspot.com/2009/10/blog-post_18.html
 Для простоты експеримента для буера использовались стандартные пластиковые лыжы, которые через пенополистирольный брусок крепились к дюралевой поперечной балке.
 Пенополистирольный брусок играет роль амортизатора, сглаживающего неровности дороги, и позволяет лыже поворачиваться в горизонтальной плоскости на малые углы при наезде на препятствие.
 
-![pic017.JPG]({{ '/assets/images/2009-10-18-roboyacht-main-structural-elements/pic017.JPG' | relative_url }})
+![pic017.JPG](../assets/images/2009-10-18-roboyacht-main-structural-elements/pic017.JPG)
 
 На рисунке ниже, хорошо виден прогиб поперечной балки вследствии чего она и была заменена на другую балку коробчатго профиля и большей жесткости.
 
-![pic027.JPG]({{ '/assets/images/2009-10-18-roboyacht-main-structural-elements/pic027.JPG' | relative_url }})
+![pic027.JPG](../assets/images/2009-10-18-roboyacht-main-structural-elements/pic027.JPG)
 
 Первоначально, для рулевого управления предпологалось использовать два тяговых сервомотора (автомобильные привода центрального замка), но експерименты и расчеты показали как малые углы поворота передней лыжи, малую мощностьприводы так и не возможность точной установки угла поворота.
 
-![pic049.JPG]({{ '/assets/images/2009-10-18-roboyacht-main-structural-elements/pic049.JPG' | relative_url }})
+![pic049.JPG](../assets/images/2009-10-18-roboyacht-main-structural-elements/pic049.JPG)
 
 Наиболее оптимальной оказалась установка електродвигателя с планетарным редуктором прямо на оси передней лыжи. Это дало лыжи как поворотливость так и большой момент на валу (зато пояилась нерешенная пока проблема среза шпильки вала при наезде на препятствие)
 
-![pic026.JPG]({{ '/assets/images/2009-10-18-roboyacht-main-structural-elements/pic026.JPG' | relative_url }})
+![pic026.JPG](../assets/images/2009-10-18-roboyacht-main-structural-elements/pic026.JPG)
 
 Ниже вид на переднюю часть корпуса с размещенным бортовым копьютером и блоком питания (размещен позади компьютера непосредствено перед вентилятором обдува.)
 
-![pic033.JPG]({{ '/assets/images/2009-10-18-roboyacht-main-structural-elements/pic033.JPG' | relative_url }})
+![pic033.JPG](../assets/images/2009-10-18-roboyacht-main-structural-elements/pic033.JPG)
 
 О електрической и електронной начинке агрегата напишу в следующих публикациях.

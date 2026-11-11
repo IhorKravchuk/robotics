@@ -11,35 +11,35 @@ original_url: "https://robotics-ingvar-ua.blogspot.com/2009/10/2-lpt.html"
 
 В данном варианте робота я решил интегрировать радиопередатчик управления непосредственно на сам разъем LPT порта аналогично Хасп-ключу. За основу снова была взята классическая китайская noname радиоуправляема игрушка. Радиопередатчик ее пульта управления работал на той же частоте что и передатчик предыдущей модели и был совместим с ним по командам. Это давало возможность управлять сразу обеими моделями. Пульт управления был разобран и из него был аккуратно извлечен передатчик. 
 
-![sm02.jpg]({{ '/assets/images/2009-10-04-variant-2-lpt-port-radio-transmitter/sm02.jpg' | relative_url }})
+![sm02.jpg](../assets/images/2009-10-04-variant-2-lpt-port-radio-transmitter/sm02.jpg)
 
-![sm01.jpg]({{ '/assets/images/2009-10-04-variant-2-lpt-port-radio-transmitter/sm01.jpg' | relative_url }})
+![sm01.jpg](../assets/images/2009-10-04-variant-2-lpt-port-radio-transmitter/sm01.jpg)
 
 Затем был подобран минимально возможный корпус для установки устр-ва на LPT-порт.В него был вмонтирован передатчик с передеанными цепями управления и питания. 
 
-![sm04.jpg]({{ '/assets/images/2009-10-04-variant-2-lpt-port-radio-transmitter/sm04.jpg' | relative_url }})
+![sm04.jpg](../assets/images/2009-10-04-variant-2-lpt-port-radio-transmitter/sm04.jpg)
 
-![sm03.jpg]({{ '/assets/images/2009-10-04-variant-2-lpt-port-radio-transmitter/sm03.jpg' | relative_url }})
+![sm03.jpg](../assets/images/2009-10-04-variant-2-lpt-port-radio-transmitter/sm03.jpg)
 
 Штатный источник питания (9- вольтовая батарея) должен будет заменен на непосредственное питание от блока питания компьютера. Для этого был изготовлен специальный шнур питания со стандартным Molex-разъемом блока питания компьютера.Из корпуса данный шнур выходил через специально модернизированную заглушку слотов расширения.
 
 В корпус был установлен разъем LPT порта, тумблер питания и контрольный светодиод.Таким образом данный передатчик может быть активирован тумблером в любое время работы компьютера 
 
-![sm05.jpg]({{ '/assets/images/2009-10-04-variant-2-lpt-port-radio-transmitter/sm05.jpg' | relative_url }})
+![sm05.jpg](../assets/images/2009-10-04-variant-2-lpt-port-radio-transmitter/sm05.jpg)
 
 Микросхема контроля со всей необходимой обвязкой была смонтирована на плате и подключена к разъему порта и ко командным входам радиопередатчика
 
-![sm06.jpg]({{ '/assets/images/2009-10-04-variant-2-lpt-port-radio-transmitter/sm06.jpg' | relative_url }})
+![sm06.jpg](../assets/images/2009-10-04-variant-2-lpt-port-radio-transmitter/sm06.jpg)
 
-![sm08.jpg]({{ '/assets/images/2009-10-04-variant-2-lpt-port-radio-transmitter/sm08.jpg' | relative_url }})
+![sm08.jpg](../assets/images/2009-10-04-variant-2-lpt-port-radio-transmitter/sm08.jpg)
 
 Осталось смонтировать антенну - и радиопередатчик готов
 
-![sm07.jpg]({{ '/assets/images/2009-10-04-variant-2-lpt-port-radio-transmitter/sm07.jpg' | relative_url }})
+![sm07.jpg](../assets/images/2009-10-04-variant-2-lpt-port-radio-transmitter/sm07.jpg)
 
 Испытания показали его простоту установки на любой корпус, компактность и удобство использования с обеими моделями машин
 
-![sm09.jpg]({{ '/assets/images/2009-10-04-variant-2-lpt-port-radio-transmitter/sm09.jpg' | relative_url }})
+![sm09.jpg](../assets/images/2009-10-04-variant-2-lpt-port-radio-transmitter/sm09.jpg)
 
 На данном этапе доработка программного обеспечения не проводилась, так как оно полностью совместимо с обоими типами радиопередатчиков.
 Дальнейшим развитием этого варианта стала установка и монтаж на автомобиле видеокамеры.

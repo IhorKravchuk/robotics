@@ -11,21 +11,21 @@ original_url: "https://robotics-ingvar-ua.blogspot.com/2009/10/3.html"
 А для этого необходим тестовый робот с большой степенью свободы и возможностью передавать изображения с настраиваемой камеры. USB камеру использовать нельзя по причине ограничений на длину шнура.
 Cоответственно было принято решения использовать цветную PAL камеру и плату захвата видеоизображения установленную в host-компьютере. Был выбран комплект для проведения видеоконференций состоящий из PAL камеры и платы видеовхода на BT848. Для обеспечения модульности архитектуры камера была доработана и стандартный шнур был заменен на интегрированную в корпус камеры розетку RJ-45.
 
-![sm05.jpg]({{ '/assets/images/2009-10-04-variant-3-rc-bot-with-video-camera/sm05.jpg' | relative_url }})
+![sm05.jpg](../assets/images/2009-10-04-variant-3-rc-bot-with-video-camera/sm05.jpg)
 
-![sm07.jpg]({{ '/assets/images/2009-10-04-variant-3-rc-bot-with-video-camera/sm07.jpg' | relative_url }})
+![sm07.jpg](../assets/images/2009-10-04-variant-3-rc-bot-with-video-camera/sm07.jpg)
 
-![sm06.jpg]({{ '/assets/images/2009-10-04-variant-3-rc-bot-with-video-camera/sm06.jpg' | relative_url }})
+![sm06.jpg](../assets/images/2009-10-04-variant-3-rc-bot-with-video-camera/sm06.jpg)
 
 От камеры к плате захвата видео идут 4 линии: 2 питания и 2 видеосигнала.В качестве пробного кабеля был выбран телефонный 4-х жильный кабель длиной 10 метров. Хоть он и давал некоторое ухудшение получаемой картинки но и обеспечивал большую свободу перемещений для машинки- робота.
 
-![sm04.jpg]({{ '/assets/images/2009-10-04-variant-3-rc-bot-with-video-camera/sm04.jpg' | relative_url }})
+![sm04.jpg](../assets/images/2009-10-04-variant-3-rc-bot-with-video-camera/sm04.jpg)
 
 Машинка была доработана с целью установки на неё стандартного фото-штатива для крепления камеры. Данный штатив обеспечивает возможность регулировки углов установки камеры на автомобиле. В результате мы получили следующую конструкцию. 
 
-![sm02.jpg]({{ '/assets/images/2009-10-04-variant-3-rc-bot-with-video-camera/sm02.jpg' | relative_url }})
+![sm02.jpg](../assets/images/2009-10-04-variant-3-rc-bot-with-video-camera/sm02.jpg)
 
-![sm03.jpg]({{ '/assets/images/2009-10-04-variant-3-rc-bot-with-video-camera/sm03.jpg' | relative_url }})
+![sm03.jpg](../assets/images/2009-10-04-variant-3-rc-bot-with-video-camera/sm03.jpg)
 
 Испытания прошли довольно успешно и дали достаточно много наработок касательно углов установки камеры, освещенности, необходимости дополнительных датчиков.
 
@@ -33,8 +33,8 @@ Cоответственно было принято решения исполь�
 Было принято решения об организации поддержки джойстика в управляющем ПО. На данный момент завершается разработка данного обновленного ПО.
 Начата разработка системы автоориентации и распознавания реперных предметов для достижения полной автономности системы. Модель версии 3 как раз и служит тестовым полигоном разработки. 
 
-![sm01.jpg]({{ '/assets/images/2009-10-04-variant-3-rc-bot-with-video-camera/sm01.jpg' | relative_url }})
+![sm01.jpg](../assets/images/2009-10-04-variant-3-rc-bot-with-video-camera/sm01.jpg)
 
 Было разработано новое ПО поддерживающее джойстик и клавиатуру. 
 
-![sm09.jpg]({{ '/assets/images/2009-10-04-variant-3-rc-bot-with-video-camera/sm09.jpg' | relative_url }})
+![sm09.jpg](../assets/images/2009-10-04-variant-3-rc-bot-with-video-camera/sm09.jpg)

@@ -18,18 +18,18 @@ Specifically, the robot would be propelled by the wind. The battery would only n
 A trimaran equipped with a rigid wing sail was chosen as the prototype design.
 For the first phase, I decided not to waste time and nerves on waterproofing a floating hull, choosing instead a close land/ice equivalent as a first approximation: an ice/land yacht (buer).
 
-![Inspiration: wing-sail land and ice yachts 1]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/pic01.jpg' | relative_url }})
+![Inspiration: wing-sail land and ice yachts 1](../assets/images/2009-10-04-roboyacht-beginning-concept/pic01.jpg)
 
-![Inspiration: wing-sail land and ice yachts 2]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/windjet048.jpg' | relative_url }})
+![Inspiration: wing-sail land and ice yachts 2](../assets/images/2009-10-04-roboyacht-beginning-concept/windjet048.jpg)
 
-![Inspiration: Windjet prototype]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/windjet000.jpg' | relative_url }})
+![Inspiration: Windjet prototype](../assets/images/2009-10-04-roboyacht-beginning-concept/windjet000.jpg)
 
 The first layout sketches produced this beauty:
 
-![3D CAD concept render 1]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/model04.jpg' | relative_url }})
+![3D CAD concept render 1](../assets/images/2009-10-04-roboyacht-beginning-concept/model04.jpg)
 
-![3D CAD concept render 2]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/model03.jpg' | relative_url }})
+![3D CAD concept render 2](../assets/images/2009-10-04-roboyacht-beginning-concept/model03.jpg)
 
-![3D CAD concept render 3]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/model02.jpg' | relative_url }})
+![3D CAD concept render 3](../assets/images/2009-10-04-roboyacht-beginning-concept/model02.jpg)
 
-![3D CAD concept render 4]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/model01.jpg' | relative_url }})
+![3D CAD concept render 4](../assets/images/2009-10-04-roboyacht-beginning-concept/model01.jpg)

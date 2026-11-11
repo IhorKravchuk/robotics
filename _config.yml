@@ -5,8 +5,8 @@ baseurl: "/robotics"
 theme: minima
 
 markdown: kramdown
-permalink: /:year/:month/:title.html
 
 exclude:
-  - old_text/
+  - backup/
   - requirements.md
+  - agents.md

@@ -18,18 +18,18 @@ original_url: "https://robotics-ingvar-ua.blogspot.com/2009/10/blog-post_04.html
 В качестве прототипа робота был выбран тримаран с парусом-крылом.
 На первом этапе было решено не тратить время и нервы на обеспечение герметичности и выбрать в качестве первого приближения несколько другое устройство - буер.
 
-![pic01.jpg]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/pic01.jpg' | relative_url }})
+![pic01.jpg](../assets/images/2009-10-04-roboyacht-beginning-concept/pic01.jpg)
 
-![windjet048.jpg]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/windjet048.jpg' | relative_url }})
+![windjet048.jpg](../assets/images/2009-10-04-roboyacht-beginning-concept/windjet048.jpg)
 
-![windjet000.jpg]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/windjet000.jpg' | relative_url }})
+![windjet000.jpg](../assets/images/2009-10-04-roboyacht-beginning-concept/windjet000.jpg)
 
 Итак первые наброски компоновки дали вот такого красавца:
 
-![model04.jpg]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/model04.jpg' | relative_url }})
+![model04.jpg](../assets/images/2009-10-04-roboyacht-beginning-concept/model04.jpg)
 
-![model03.jpg]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/model03.jpg' | relative_url }})
+![model03.jpg](../assets/images/2009-10-04-roboyacht-beginning-concept/model03.jpg)
 
-![model02.jpg]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/model02.jpg' | relative_url }})
+![model02.jpg](../assets/images/2009-10-04-roboyacht-beginning-concept/model02.jpg)
 
-![model01.jpg]({{ '/assets/images/2009-10-04-roboyacht-beginning-concept/model01.jpg' | relative_url }})
+![model01.jpg](../assets/images/2009-10-04-roboyacht-beginning-concept/model01.jpg)

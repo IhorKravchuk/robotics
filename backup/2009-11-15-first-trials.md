@@ -12,9 +12,9 @@ original_url: "https://robotics-ingvar-ua.blogspot.com/2009/11/blog-post_2319.ht
 
 Результат как говориться на лицо:
 
-![pic001.JPG]({{ '/assets/images/2009-11-15-first-trials/pic001.JPG' | relative_url }})
+![pic001.JPG](../assets/images/2009-11-15-first-trials/pic001.JPG)
 
-![pic003.JPG]({{ '/assets/images/2009-11-15-first-trials/pic003.JPG' | relative_url }})
+![pic003.JPG](../assets/images/2009-11-15-first-trials/pic003.JPG)
 
 Итак проходимость по рыхлому снегу и сопротивление движение ясно продемострировали, что для ходовых испытаний такая поверхность совершенно не годиться. Мало того, что аппарат даже без весовой нагрузки утопает в нем, так и двигаться вперед весьма и весьма непросто.
 
@@ -22,4 +22,4 @@ original_url: "https://robotics-ingvar-ua.blogspot.com/2009/11/blog-post_2319.ht
 
 Конструктор и его дитя. Испытание реальностью:
 
-![pic006.JPG]({{ '/assets/images/2009-11-15-first-trials/pic006.JPG' | relative_url }})
+![pic006.JPG](../assets/images/2009-11-15-first-trials/pic006.JPG)

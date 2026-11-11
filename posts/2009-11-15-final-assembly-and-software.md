@@ -11,12 +11,12 @@ The time has come for final assembly.
 The hard drive was mounted on the inside of the instrument compartment cover.
 The servo controller board was mounted onto the motherboard over an insulating layer and connected to the internal LPT port header. Cables and boards were secured with hot glue. During assembly, I had to spend quite a bit of time with a heat gun removing that glue whenever wiring mistakes needed fixing.
 
-![Onboard computer and servo controller board]({{ '/assets/images/2009-11-15-final-assembly-and-software/PB300027.JPG' | relative_url }})
+![Onboard computer and servo controller board](../assets/images/2009-11-15-final-assembly-and-software/PB300027.JPG)
 
 A panoramic :-) photo of the assembly workbench.
 Initially, for component debugging and testing, a monitor and keyboard were connected directly to the onboard computer board.
 
-![Assembly area with monitor connected to the robot]({{ '/assets/images/2009-11-15-final-assembly-and-software/PB300016.JPG' | relative_url }})
+![Assembly area with monitor connected to the robot](../assets/images/2009-11-15-final-assembly-and-software/PB300016.JPG)
 
 Because direct connections were inconvenient (the ports are tucked behind the front edge of the hull, requiring partial extraction of the computer board to plug anything in), VNC over Wi-Fi was used to access the onboard computer.
 
@@ -29,12 +29,12 @@ Here is a brief overview of the robot's software stack:
 
 The robot is controlled via a web interface by setting the wing-sail angle of attack and the steering direction. Right now, these are engineering interfaces; following wind and field trials, they will be replaced by an automated sail-control and obstacle-avoidance system. Ultimately, the only input parameters will be heading and target speed—or ideally, a patrol trajectory or operating zone.
 
-![Workbench testing setup]({{ '/assets/images/2009-11-15-final-assembly-and-software/PB300021.JPG' | relative_url }})
+![Workbench testing setup](../assets/images/2009-11-15-final-assembly-and-software/PB300021.JPG)
 
 And finally, the finished "Roboyacht" in all its glory:
 
-![Assembled Roboyacht 1]({{ '/assets/images/2009-11-15-final-assembly-and-software/P8300014.JPG' | relative_url }})
+![Assembled Roboyacht 1](../assets/images/2009-11-15-final-assembly-and-software/P8300014.JPG)
 
-![Assembled Roboyacht 2]({{ '/assets/images/2009-11-15-final-assembly-and-software/P8300008.JPG' | relative_url }})
+![Assembled Roboyacht 2](../assets/images/2009-11-15-final-assembly-and-software/P8300008.JPG)
 
 The next posts will cover field trials, design modifications based on test results, and software optimization.

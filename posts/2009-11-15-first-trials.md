@@ -12,9 +12,9 @@ On a nice, snowy day (long before final assembly), I decided to test how my magi
 
 The result speaks for itself:
 
-![Testing skis on loose snow 1]({{ '/assets/images/2009-11-15-first-trials/pic001.JPG' | relative_url }})
+![Testing skis on loose snow 1](../assets/images/2009-11-15-first-trials/pic001.JPG)
 
-![Testing skis on loose snow 2]({{ '/assets/images/2009-11-15-first-trials/pic003.JPG' | relative_url }})
+![Testing skis on loose snow 2](../assets/images/2009-11-15-first-trials/pic003.JPG)
 
 The performance in loose snow and the high resistance to motion clearly demonstrated that such a surface is completely unsuitable for sea/field trials. Not only does the vehicle sink into the snow even without its full payload weight, but moving forward is also extremely difficult.
 
@@ -22,4 +22,4 @@ It was decided that future trials must be conducted either on ice or on hard-pac
 
 The designer and his creation—tested by reality:
 
-![The designer and his creation in the snow]({{ '/assets/images/2009-11-15-first-trials/pic006.JPG' | relative_url }})
+![The designer and his creation in the snow](../assets/images/2009-11-15-first-trials/pic006.JPG)

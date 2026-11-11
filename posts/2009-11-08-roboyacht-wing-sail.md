@@ -11,20 +11,20 @@ One of the most important components of the robot—specifically, its propulsion
 
 The vertical load, however, is borne by the drive gearbox support, which engages with the wing's base pad via pins. The lower mast bearing primarily handles the bending loads of the mast.
 
-![Mast step and bearing assembly]({{ '/assets/images/2009-11-08-roboyacht-wing-sail/PB230011.JPG' | relative_url }})
+![Mast step and bearing assembly](../assets/images/2009-11-08-roboyacht-wing-sail/PB230011.JPG)
 
 The structural frame of the wing consists of 5 ribs, a leading-edge stringer shaping the nose profile, and an additional flat central spar parallel to the mast to reinforce torsional rigidity.
 
-![Wing sail internal frame and ribs]({{ '/assets/images/2009-11-08-roboyacht-wing-sail/P2150018.JPG' | relative_url }})
+![Wing sail internal frame and ribs](../assets/images/2009-11-08-roboyacht-wing-sail/P2150018.JPG)
 
 The wing core itself is made from foam blocks fitted between the ribs and glued to both the ribs and spars. The foam blocks were shaped using a hot nichrome wire cutter.
 
-![Foam blocks glued between wing ribs]({{ '/assets/images/2009-11-08-roboyacht-wing-sail/P3020032.JPG' | relative_url }})
+![Foam blocks glued between wing ribs](../assets/images/2009-11-08-roboyacht-wing-sail/P3020032.JPG)
 
 Surface irregularities and imperfections in the foam were filled with sealant.
 
-![Filled and smoothed wing sail core]({{ '/assets/images/2009-11-08-roboyacht-wing-sail/P12345.jpg' | relative_url }})
+![Filled and smoothed wing sail core](../assets/images/2009-11-08-roboyacht-wing-sail/P12345.jpg)
 
 Heavy drawing paper (Whatman paper) impregnated with polymer resin was used for the outer skin. To improve water resistance, the wing was finished with white water-repellent paint.
 
-![Finished and painted wing sail]({{ '/assets/images/2009-11-08-roboyacht-wing-sail/P3300004.JPG' | relative_url }})
+![Finished and painted wing sail](../assets/images/2009-11-08-roboyacht-wing-sail/P3300004.JPG)

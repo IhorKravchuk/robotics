@@ -18,13 +18,13 @@ What changed even more over the years was the core of the system—the computer.
 
 Here is the result of the work:
 
-![Roboyacht ready for final test 1]({{ '/assets/images/2010-11-02-final-test-roboyacht/PA240002.jpg' | relative_url }})
+![Roboyacht ready for final test 1](../assets/images/2010-11-02-final-test-roboyacht/PA240002.jpg)
 
-![Roboyacht ready for final test 2]({{ '/assets/images/2010-11-02-final-test-roboyacht/PA240009.jpg' | relative_url }})
+![Roboyacht ready for final test 2](../assets/images/2010-11-02-final-test-roboyacht/PA240009.jpg)
 
 The vehicle turned out to be quite heavy—around 20 kg—which dramatically increased the wind speed required to move it.
 
-![Roboyacht during outdoor trials]({{ '/assets/images/2010-11-02-final-test-roboyacht/PA240026.jpg' | relative_url }})
+![Roboyacht during outdoor trials](../assets/images/2010-11-02-final-test-roboyacht/PA240026.jpg)
 
 This made testing even more challenging and limited the data we could gather. The heavy weight overloaded the front support, and toward the end of the trials, the steering gearbox failed. The small wheel diameter and lack of suspension damping caused vibrations and extra rolling resistance. Since the wind wasn't strong enough to overcome initial static friction, rather "archaic methods" had to be used to give the vehicle an initial push :-)
 
@@ -37,13 +37,13 @@ Based on the results, I decided to dismantle the prototype:
 So, the test is complete, the first prototype has been disassembled, and work has begun on the second one!
 
 <video controls width="480" height="360">
-  <source src="{{ '/assets/videos/2010-11-02-final-test-roboyacht/video-1.mp4' | relative_url }}" type="video/mp4">
+  <source src="../assets/videos/2010-11-02-final-test-roboyacht/video-1.mp4" type="video/mp4">
 </video>
 
 <video controls width="480" height="360">
-  <source src="{{ '/assets/videos/2010-11-02-final-test-roboyacht/video-2.mp4' | relative_url }}" type="video/mp4">
+  <source src="../assets/videos/2010-11-02-final-test-roboyacht/video-2.mp4" type="video/mp4">
 </video>
 
 <video controls width="480" height="360">
-  <source src="{{ '/assets/videos/2010-11-02-final-test-roboyacht/video-3.mp4' | relative_url }}" type="video/mp4">
+  <source src="../assets/videos/2010-11-02-final-test-roboyacht/video-3.mp4" type="video/mp4">
 </video>

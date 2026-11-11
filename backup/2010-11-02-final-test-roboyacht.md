@@ -18,13 +18,13 @@ original_url: "https://robotics-ingvar-ua.blogspot.com/2010/11/final-test.html"
 
 Итак вот он результат работы:
 
-![PA240002.jpg]({{ '/assets/images/2010-11-02-final-test-roboyacht/PA240002.jpg' | relative_url }})
+![PA240002.jpg](../assets/images/2010-11-02-final-test-roboyacht/PA240002.jpg)
 
-![PA240009.jpg]({{ '/assets/images/2010-11-02-final-test-roboyacht/PA240009.jpg' | relative_url }})
+![PA240009.jpg](../assets/images/2010-11-02-final-test-roboyacht/PA240009.jpg)
 
 Устройство получилось довольно массивным - около 20 кг и требования к ветру многократно возрасли.
 
-![PA240026.jpg]({{ '/assets/images/2010-11-02-final-test-roboyacht/PA240026.jpg' | relative_url }})
+![PA240026.jpg](../assets/images/2010-11-02-final-test-roboyacht/PA240026.jpg)
 
 Это еще больше усложнило испытания и сказалось на информативности. Большой вес перегрузил и переднюю опору и под конец испытаний редуктор разрушился. Маленький диаметр колес и отсутствие демпфирующих элементов привели к вибрации и дополнительному сопротивлению качению. Для сдвига устройства ,ибо ветра для страгивания не хватало, и придания ему начальной скорости применялись весьма "архаичные методы" :-)
 
@@ -37,13 +37,13 @@ original_url: "https://robotics-ingvar-ua.blogspot.com/2010/11/final-test.html"
 Итак, тест закончен, первый экземпляр разобран, пошла работа на вторым!
 
 <video controls width="480" height="360">
-  <source src="{{ '/assets/videos/2010-11-02-final-test-roboyacht/video-1.mp4' | relative_url }}" type="video/mp4">
+  <source src="../assets/videos/2010-11-02-final-test-roboyacht/video-1.mp4" type="video/mp4">
 </video>
 
 <video controls width="480" height="360">
-  <source src="{{ '/assets/videos/2010-11-02-final-test-roboyacht/video-2.mp4' | relative_url }}" type="video/mp4">
+  <source src="../assets/videos/2010-11-02-final-test-roboyacht/video-2.mp4" type="video/mp4">
 </video>
 
 <video controls width="480" height="360">
-  <source src="{{ '/assets/videos/2010-11-02-final-test-roboyacht/video-3.mp4' | relative_url }}" type="video/mp4">
+  <source src="../assets/videos/2010-11-02-final-test-roboyacht/video-3.mp4" type="video/mp4">
 </video>
